@@ -1,0 +1,82 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+	color: #222;
+
+}
+.cont{
+	max-width: 1000px;
+	min-height: 200px;
+	margin: 0 auto;
+	background-color: #ccc;
+}
+
+.one{
+	background-color: green;
+	min-height: 100px;
+	padding: 1.66%;
+}
+.two{
+	background-color: blue;
+	min-height: 100px;
+	padding: 1.66%;
+}
+}
+.three{
+	background-color: red;
+	min-height: 100px;
+	padding: 1.66%;
+}
+
+
+.four img{
+	width: 100%;
+}
+.four{
+	background-color: cyan;
+	min-height: 100px;
+	padding: 20px;
+	overflow: auto;
+}
+
+.five{
+	background-color: grey;
+	min-height: 100px;
+	padding: 1.2%;
+}
+
+.six{
+	background-color: brown;
+	min-height: 100px;
+	padding: 1.2%;
+}
+
+.seven{
+	background-color: bisque;
+	min-height: 100px;
+	padding: 2.5px;
+	overflow: auto;
+}
+
+.eight{
+	background-color: teal;
+	min-height: 100px;
+	padding: 20px;
+}
+.cont h2{
+	font-size: 5vw;
+}
+
+@media screen and (max-width: 800px;){
+	.my-panel{
+		width: 98%;
+		padding: 1px;
+	}
+}
+
+@media screen and (max-width: 800px;){
+	.my-panel{
+		width: 98%;
+		padding: 1px
+		background-color: black;	}
+}
